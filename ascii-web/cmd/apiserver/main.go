@@ -1,10 +1,11 @@
 package main
 
 import (
-	"log"
 	"flag"
+	"log"
+
 	"github.com/BurntSushi/toml"
-	"github.com/4ubak/go_backend/ascii-web/internal/app/apiserver"
+	"github.com/4ubak/go_backend/ascii-web"
 )
 
 var (

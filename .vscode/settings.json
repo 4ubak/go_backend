@@ -1,0 +1,6 @@
+{
+    "go.inferGopath": false,
+    "terminal.integrated.env.linux": {
+        "GOPATH": "${command:go.gopath}"
+    }
+}
