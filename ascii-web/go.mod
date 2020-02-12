@@ -3,6 +3,7 @@ module github.com/4ubak/go_backend
 go 1.12
 
 require (
+	github.com/BurntSushi/toml v0.3.1
 	github.com/acroca/go-symbols v0.1.1 // indirect
 	github.com/go-delve/delve v1.4.0 // indirect
 	github.com/godoctor/godoctor v0.0.0-20181123222458-69df17f3a6f6 // indirect

@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"flag"
-	"https://github.com/BurntSushi/toml"
-	"https://github.com/4ubak/go_backend/internal/app/apiserver"
+	"github.com/BurntSushi/toml"
+	"github.com/4ubak/go_backend/ascii-web/internal/app/apiserver"
 )
 
 var (
