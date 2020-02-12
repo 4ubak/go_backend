@@ -1,8 +1,6 @@
 package main
 
 import (
-	// "fmt"
-	// "net/http"
 	"log"
 	"flag"
 	"https://github.com/BurntSushi/toml"
