@@ -2,11 +2,11 @@ package apiserver
 
 //ApiServer
 type APIServer struct {
-	config *Config 
+	config *Config
 }
 
 //New
-func new(config *Config) *APIServer {
+func New(config *Config) *APIServer {
 	return &APIServer{
 		config: config,
 	}
